@@ -1,0 +1,105 @@
+# Project: CKJD
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = src/main.o src/collectable.o src/map.o src/mapsquare.o src/armor.o src/augment.o src/building.o src/terrain.o src/view.o src/weapon.o src/treasure.o src/person.o src/game.o src/battle.o src/generalfunctions.o src/weaponc/longsword.o src/weaponc/shortsword.o src/weaponc/spear.o src/weaponc/greatsword.o src/treasurec/goldencup.o src/weaponc/fist.o src/armorc/skin.o src/treasurec/coffee.o src/treasurec/orchorn.o src/treasurec/diamond.o src/treasurec/pendant.o $(RES)
+LINKOBJ  = src/main.o src/collectable.o src/map.o src/mapsquare.o src/armor.o src/augment.o src/building.o src/terrain.o src/view.o src/weapon.o src/treasure.o src/person.o src/game.o src/battle.o src/generalfunctions.o src/weaponc/longsword.o src/weaponc/shortsword.o src/weaponc/spear.o src/weaponc/greatsword.o src/treasurec/goldencup.o src/weaponc/fist.o src/armorc/skin.o src/treasurec/coffee.o src/treasurec/orchorn.o src/treasurec/diamond.o src/treasurec/pendant.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib"  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = CKJD.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before CKJD.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "CKJD.exe" $(LIBS)
+
+src/main.o: src/main.cpp
+	$(CPP) -c src/main.cpp -o src/main.o $(CXXFLAGS)
+
+src/collectable.o: src/collectable.cpp
+	$(CPP) -c src/collectable.cpp -o src/collectable.o $(CXXFLAGS)
+
+src/map.o: src/map.cpp
+	$(CPP) -c src/map.cpp -o src/map.o $(CXXFLAGS)
+
+src/mapsquare.o: src/mapsquare.cpp
+	$(CPP) -c src/mapsquare.cpp -o src/mapsquare.o $(CXXFLAGS)
+
+src/armor.o: src/armor.cpp
+	$(CPP) -c src/armor.cpp -o src/armor.o $(CXXFLAGS)
+
+src/augment.o: src/augment.cpp
+	$(CPP) -c src/augment.cpp -o src/augment.o $(CXXFLAGS)
+
+src/building.o: src/building.cpp
+	$(CPP) -c src/building.cpp -o src/building.o $(CXXFLAGS)
+
+src/terrain.o: src/terrain.cpp
+	$(CPP) -c src/terrain.cpp -o src/terrain.o $(CXXFLAGS)
+
+src/view.o: src/view.cpp
+	$(CPP) -c src/view.cpp -o src/view.o $(CXXFLAGS)
+
+src/weapon.o: src/weapon.cpp
+	$(CPP) -c src/weapon.cpp -o src/weapon.o $(CXXFLAGS)
+
+src/treasure.o: src/treasure.cpp
+	$(CPP) -c src/treasure.cpp -o src/treasure.o $(CXXFLAGS)
+
+src/person.o: src/person.cpp
+	$(CPP) -c src/person.cpp -o src/person.o $(CXXFLAGS)
+
+src/game.o: src/game.cpp
+	$(CPP) -c src/game.cpp -o src/game.o $(CXXFLAGS)
+
+src/battle.o: src/battle.cpp
+	$(CPP) -c src/battle.cpp -o src/battle.o $(CXXFLAGS)
+
+src/generalfunctions.o: src/generalfunctions.cpp
+	$(CPP) -c src/generalfunctions.cpp -o src/generalfunctions.o $(CXXFLAGS)
+
+src/weaponc/longsword.o: src/weaponc/longsword.cpp
+	$(CPP) -c src/weaponc/longsword.cpp -o src/weaponc/longsword.o $(CXXFLAGS)
+
+src/weaponc/shortsword.o: src/weaponc/shortsword.cpp
+	$(CPP) -c src/weaponc/shortsword.cpp -o src/weaponc/shortsword.o $(CXXFLAGS)
+
+src/weaponc/spear.o: src/weaponc/spear.cpp
+	$(CPP) -c src/weaponc/spear.cpp -o src/weaponc/spear.o $(CXXFLAGS)
+
+src/weaponc/greatsword.o: src/weaponc/greatsword.cpp
+	$(CPP) -c src/weaponc/greatsword.cpp -o src/weaponc/greatsword.o $(CXXFLAGS)
+
+src/treasurec/goldencup.o: src/treasurec/goldencup.cpp
+	$(CPP) -c src/treasurec/goldencup.cpp -o src/treasurec/goldencup.o $(CXXFLAGS)
+
+src/weaponc/fist.o: src/weaponc/fist.cpp
+	$(CPP) -c src/weaponc/fist.cpp -o src/weaponc/fist.o $(CXXFLAGS)
+
+src/armorc/skin.o: src/armorc/skin.cpp
+	$(CPP) -c src/armorc/skin.cpp -o src/armorc/skin.o $(CXXFLAGS)
+
+src/treasurec/coffee.o: src/treasurec/coffee.cpp
+	$(CPP) -c src/treasurec/coffee.cpp -o src/treasurec/coffee.o $(CXXFLAGS)
+
+src/treasurec/orchorn.o: src/treasurec/orchorn.cpp
+	$(CPP) -c src/treasurec/orchorn.cpp -o src/treasurec/orchorn.o $(CXXFLAGS)
+
+src/treasurec/diamond.o: src/treasurec/diamond.cpp
+	$(CPP) -c src/treasurec/diamond.cpp -o src/treasurec/diamond.o $(CXXFLAGS)
+
+src/treasurec/pendant.o: src/treasurec/pendant.cpp
+	$(CPP) -c src/treasurec/pendant.cpp -o src/treasurec/pendant.o $(CXXFLAGS)

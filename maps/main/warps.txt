@@ -1,0 +1,8 @@
+10 14 cave1 -1 -1
+17 2 cave2 -1 -1
+4 2 inn -1 -1
+9 1 castle -1 -1
+9 11 farm -1 -1
+2 10 elftown -1 -1
+2 16 cave3 -1 -1
+17 14 rivertown -1 -1

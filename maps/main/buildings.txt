@@ -1,0 +1,8 @@
+9 1 castle 0 Q'leeyshae Castle
+4 2 town 0 Q'leeyshae Inn
+17 2 cave 1 Dark Cave of Darkness (and Despair)
+2 10 town 0 Tae'ylaernisver'nyavui
+9 11 town 0 River Farm
+10 14 cave 1 Swamp Cave
+17 14 town 0 Q'leeyshae Village on the River
+2 16 cave 1 Deadly Cave of Death (and Despair)

@@ -1,0 +1,9 @@
+17 2 Cow; Cow 1 0 1 15 10 10 20 100 100 weapon armor augment treasure A cow is lazily chewing in its pen.; Moo.;
+15 2 Cow; Cow 1 0 1 15 10 10 20 100 100 weapon armor augment treasure A cow is lazily chewing in its pen.; Moo.;
+13 2 Cow; Cow 1 0 1 15 10 10 20 100 100 weapon armor augment treasure A cow is lazily chewing in its pen.; Moo.;
+11 6 Loren; FemaleHuman 1 0 1 15 10 10 20 100 100 weapon armor augment treasure A pretty girl in a dress is waving at you.; Heya! I'm the farmer's daughter, Loren!;
+16 10 Rita; Human 1 0 1 15 10 10 20 100 100 weapon armor augment treasure A slightly heavy woman is cleaning the house.; Well good afternoon to you! I'm just cleaning up the house and getting ready for dinner tonight.;
+15 17 Billy; Human 1 0 1 15 10 10 20 100 100 weapon armor augment treasure A young man is filling a crate with apples from the orchard.; You just gonna stand there or you gonna help me out?;
+6 19 Elven Spy; Elf 1 1 2 15 20 20 20 2000 200 shortsword armor augment treasure An elf with face paint is crouching here in trees. He's an elven spy!; vrak!;
+2 12 Ashley; FemaleHuman 1 0 1 15 10 10 20 100 100 longsword armor augment treasure A little girl is giggling at the fish in the pond.; Look at my fishies!;
+2 4 Hank; Human 1 0 1 15 10 10 20 100 100 longsword armor augment treasure A large tanned farmer is rooting through odds and ends here in his storage shed.; Goddammit where's my rake!;

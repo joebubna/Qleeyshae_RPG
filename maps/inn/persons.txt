@@ -1,0 +1,15 @@
+6 15 Bartender Olaf; Human 1 0 1 15 10 10 20 100 100 weapon armor augment treasure The bartender stands here, tending his bar.; Whatya be havin, guv?;
+4 13 Jeremy; Human 1 0 1 15 10 10 20 100 100 weapon armor augment treasure Here sits a sorrowful drunk.; Times are tough.;
+7 13 Drunk and Bitter Man; Human 1 0 1 15 10 10 20 100 100 weapon armor augment treasure This man looks angry.; *urp* Bugger off!;
+9 13 Hal; Human 1 0 1 15 10 10 20 100 200 weapon armor augment treasure A man sits here, smiling knowingly into his drink.; Of course I'm happy, i'm drunk!;
+5 11 Tia; FemaleHuman 1 0 1 15 10 10 20 100 200 weapon armor augment treasure An attractive barmaid rushes by you, a tankard of ale in each hand.; You lookin' for some drinks? Talk to the bartender, I just bring 'em out.;
+2 9 Leyawin; FemaleElf 1 0 1 15 10 10 20 100 200 weapon armor augment treasure An elven girl is sitting in the corner here, singing and playing a beautiful song on a harp.; Veasrea'yalvest aes trae'ska...;
+8 10 Ergar; Dwarf 1 0 1 15 10 10 20 100 200 weapon armor augment treasure This dwarf is so drunk, that he's singing along in elven to the music.; Kaelyst'trae vor'sha *hic* leyanesti...;
+13 12 Cook; Human 1 0 1 15 10 10 20 100 200 weapon armor augment treasure The cook is here, devising dishes of questionable quality; What the hell you doin' back here? Get!;
+0 6 Cristy; FemaleHuman 1 0 1 15 10 10 20 100 200 weapon armor augment treasure A scantly clad young woman leaning against the wall eyes you wearily.; Lookin' for a date sweety?;
+3 6 Amy; FemaleHuman 1 0 1 15 10 10 20 100 200 weapon armor augment treasure A woman is lying in bed, fast asleep.; Zzzzz...;
+9 0 Tim; Human 1 0 1 15 10 10 20 100 200 weapon armor augment treasure A large man is sitting on his bed; What the hell, I paid for this room, and privacy! Get out!;
+13 1 Vealyruvia; FemaleElf 1 0 1 15 10 10 20 100 200 weapon armor augment treasure A naked woman eyes you curiously.; I'm only being paid for the one...;
+13 0 David; Human 1 1 1 15 10 10 20 100 200 shortsword armor augment treasure This man is naked, and very angry at your intrusion. He grabs a shortsword from a nearby dresser and attacks!; Argh, pervert!;
+10 6 Navon; Dwarf 1 0 1 15 10 10 20 100 200 weapon armor augment treasure A dwarf is fast asleep in his bed, snoring loudly.; ZZZZZZZZZZZ*snort*ZZZZZZZZZZZ;
+2 1 Old Man; Human 1 0 1 15 10 10 20 100 200 weapon armor augment treasure An old man sits here, relaxing with a book.; I'm in here because it's too loud out there, son. Please excuse yourself if you would.;

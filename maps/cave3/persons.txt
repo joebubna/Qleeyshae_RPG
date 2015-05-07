@@ -1,0 +1,17 @@
+2 4 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+2 6 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+1 2 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+2 9 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+5 7 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+4 4 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+7 3 Kobold; Kobold 0 1 2 10 12 12 20 200 200 spear armor augment treasure A kobold attacks! Yip Yip!;
+8 1 Kobold; Kobold 0 1 2 10 12 12 20 200 200 spear armor augment treasure A kobold attacks! Yip Yip!;
+9 2 Kobold; Kobold 0 1 2 10 12 12 20 200 200 spear armor augment treasure A kobold attacks! Yip Yip!;
+6 3 Kobold; Kobold 0 1 2 10 12 12 20 200 200 spear armor augment treasure A kobold attacks! Yip Yip!;
+8 8 Kobold; Kobold 0 1 2 10 12 12 20 200 200 spear armor augment treasure A kobold attacks! Yip Yip!;
+10 7 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+13 6 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+14 3 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+11 2 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+12 9 Orc; Orc 0 1 2 13 20 20 20 200 200 spear armor augment treasure An orc attacks!; Ugh, Ilka kra!;
+13 1 Kael'thak; OrcChief 0 1 2 15 40 40 20 2000 200 spear armor augment treasure Kael'thak, Chief of the Hak'thak clan, stands amongst fresh Elven corpses, and walks towards you with a twisted smile.; Kek;

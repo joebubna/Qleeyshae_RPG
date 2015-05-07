@@ -1,0 +1,11 @@
+4 15 Gunther; OrcChief 0 1 2 15 30 30 20 2000 200 longsword armor augment treasure Chief Gunther of the Ker'grthak clan stands amongst a pile of bones, ready for battle.; Grr... Ilka tuk tak!;
+4 12 Orcish Bridge Guard; Orc 0 1 1 15 20 20 100 1000 100 spear armor augment treasure An orc is blocking your passage to the back of the cave.; Guthtak!;
+4 7 Orcish Bridge Guard; Orc 0 1 1 15 20 20 100 1000 100 spear armor augment treasure An orc is blocking the bridge.; Guthtak!;
+7 5 Goblin Slave; Goblin 0 1 1 15 15 15 0 1000 100 shortsword armor augment treasure A goblin is shackled in the corner, though not so tightly as to stop him from attacking!; Graexblub!;
+7 2 Goblin Slave; Goblin 0 1 1 15 15 15 0 1000 100 shortsword armor augment treasure A goblin is shackled in the corner, though not so tightly as to stop him from attacking!; Graexblub!;
+5 3 Orc; Orc 0 1 1 15 20 20 100 1000 100 spear armor augment treasure An orc attacks!; Guthtak!;
+4 2 Orc; Orc 0 1 1 15 20 20 100 1000 100 spear armor augment treasure An orc attacks!; Guthtak!;
+2 3 Orc; Orc 0 1 1 15 20 20 100 1000 100 spear armor augment treasure An orc attacks!; Guthtak!;
+3 4 Orc; Orc 0 1 1 15 20 20 100 1000 100 spear armor augment treasure An orc attacks!; Guthtak!;
+5 6 Orc; Orc 0 1 1 15 20 20 100 1000 100 spear armor augment treasure An orc attacks!; Guthtak!;
+
